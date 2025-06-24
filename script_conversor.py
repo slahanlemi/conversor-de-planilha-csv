@@ -1,6 +1,6 @@
 import csv
 
-#corregindo texto mal formatado e acentos incorretos
+#corrigindo texto mal formatado e acentos incorretos
 def corrigir_acentos(texto):
     try:
         return texto.encode('latin1').decode('utf-8')
