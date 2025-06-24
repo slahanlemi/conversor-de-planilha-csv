@@ -5,8 +5,7 @@ Este script Python corrige acentuação mal formatada e converte arquivos CSV se
 ---
 
  Tecnologias usadas
-Python 3
-Biblioteca padrão: csv
+- Python 3 (biblioteca csv)
 
 ✨ Funcionalidades
 
