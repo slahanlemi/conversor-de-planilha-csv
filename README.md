@@ -18,21 +18,12 @@ Gera um arquivo CSV limpo e pronto para uso
 
 🚀 Como usar
 
-Coloque o arquivo CSV original (ex: pt_BR1-corrigido.csv) na pasta do script.
+1. Coloque o arquivo CSV original (ex: pt_BR1-corrigido.csv) na pasta do script.
+2. Ajuste o nome do arquivo em arquivo_entrada no script, se precisar.
+3. Rode o script com Python 3: python script_conversor.py
 
-Ajuste o nome do arquivo em arquivo_entrada no script, se precisar.
-
-Rode o script com Python 3:
-
-bash
-Copiar
-Editar
-python script_conversor.py
 O arquivo corrigido será salvo como pt_BR1-final.csv (ou o nome definido em arquivo_saida).
 
-👩‍💻 Desenvolvido por
+👩‍💻 Script escrito por
 Milena Augusto
 
-📬 Contato
-Email: augustomilenaa@gmail.com
-LinkedIn: linkedin.com/in/milena-augusto
